@@ -5,19 +5,22 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:mdk1101"
         mc:Ignorable="d"
-        Title="Window1" Height="450" Width="800">
-    <Grid Margin="-42,-230,42,230">
-            <DataGrid x:Name ="rozisk" AutoGenerateColumns="False">
-                <DataGrid.Columns>
-                    <DataGridTextColumn Header="ID" Binding="{Binding cartoteka_id}"></DataGridTextColumn>
+        Title="Window1" Height="651" Width="995">
+    <Grid Margin="-42,-228,42,166" RenderTransformOrigin="0.526,0.616">
+        <DataGrid x:Name ="rozisk" AutoGenerateColumns="False" Margin="109,274,251,214" SelectionChanged="rozisk_SelectionChanged">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding cartoteka_id}"></DataGridTextColumn>
 
-                    <DataGridTextColumn Header="Статус" Binding="{Binding status}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Статус" Binding="{Binding status}"></DataGridTextColumn>
 
-                    <DataGridTextColumn Header="Местоположение" Binding="{Binding mestopologenie}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Местоположение" Binding="{Binding mestopologenie}"></DataGridTextColumn>
 
-                    <DataGridTextColumn Header="Дата" Binding="{Binding data}"></DataGridTextColumn>
+                <DataGridTextColumn Header="Дата" Binding="{Binding data}"></DataGridTextColumn>
 
-                </DataGrid.Columns>
-            </DataGrid>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button Content="Добавить" HorizontalAlignment="Left" Margin="126,530,0,0" VerticalAlignment="Top" Height="83" Width="156" Click="Button_Click_1"/>
+        <Button Content="Редактировать" HorizontalAlignment="Left" Margin="521,530,0,0" VerticalAlignment="Top" Height="83" Width="156" Click="Button_Click_2"></Button>
+        <Button Content="Удалить" HorizontalAlignment="Left" Margin="325,530,0,0" VerticalAlignment="Top" Height="83" Width="156" RenderTransformOrigin="0.381,-0.351" Click="Button_Click"></Button>
     </Grid>
 </Window>

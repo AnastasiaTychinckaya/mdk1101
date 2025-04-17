@@ -1,0 +1,23 @@
+﻿<Window x:Class="mdk1101.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mdk1101"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid>
+        <TextBlock x:Name="ID" HorizontalAlignment="Left" Margin="152,52,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="14" Width="61"/>
+        <TextBlock x:Name="Status" HorizontalAlignment="Left" Margin="152,101,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <TextBlock x:Name="Mestopologenie" HorizontalAlignment="Left" Margin="152,151,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <TextBlock x:Name="Data" HorizontalAlignment="Left" Margin="152,201,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top"/>
+        <Label Content="ID" HorizontalAlignment="Left" Height="31" Margin="50,52,0,0" VerticalAlignment="Top" Width="39"/>
+        <Label Content="Статус" HorizontalAlignment="Left" Height="31" Margin="50,96,0,0" VerticalAlignment="Top" Width="39"/>
+        <Label Content="Местоположение" HorizontalAlignment="Left" Height="31" Margin="50,146,0,0" VerticalAlignment="Top" Width="39"/>
+        <Label Content="Дата" HorizontalAlignment="Left" Height="31" Margin="50,196,0,0" VerticalAlignment="Top" Width="39"/>
+        <Button Content="Сохранить" HorizontalAlignment="Left" Height="68" Margin="77,262,0,0" VerticalAlignment="Top" Width="124" Click="Button_Click"/>
+        <Button Content="Отменить" HorizontalAlignment="Left" Height="68" Margin="241,262,0,0" VerticalAlignment="Top" Width="124" Click="Button_Click_2"/>
+        <Button Content="СОХРАНИТЬ" HorizontalAlignment="Left" Height="44" Margin="77,351,0,0" VerticalAlignment="Top" Width="288" RenderTransformOrigin="0.34,0.321" Click="Button_Click_1"/>
+
+    </Grid>
+</Window>
