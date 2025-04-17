@@ -1,0 +1,23 @@
+﻿<Window x:Class="mdk1101.Roz"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:mdk1101"
+        mc:Ignorable="d"
+        Title="Window1" Height="450" Width="800">
+    <Grid Margin="-42,-230,42,230">
+            <DataGrid x:Name ="rozisk" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Header="ID" Binding="{Binding cartoteka_id}"></DataGridTextColumn>
+
+                    <DataGridTextColumn Header="Статус" Binding="{Binding status}"></DataGridTextColumn>
+
+                    <DataGridTextColumn Header="Местоположение" Binding="{Binding mestopologenie}"></DataGridTextColumn>
+
+                    <DataGridTextColumn Header="Дата" Binding="{Binding data}"></DataGridTextColumn>
+
+                </DataGrid.Columns>
+            </DataGrid>
+    </Grid>
+</Window>
