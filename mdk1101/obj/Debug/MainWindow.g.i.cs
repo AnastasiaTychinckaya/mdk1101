@@ -81,6 +81,30 @@ namespace mdk1101 {
             case 1:
             this.cartoteka = ((System.Windows.Controls.DataGrid)(target));
             return;
+            case 2:
+            
+            #line 22 "..\..\MainWindow.xaml"
+            ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.Button_Click);
+            
+            #line default
+            #line hidden
+            return;
+            case 3:
+            
+            #line 23 "..\..\MainWindow.xaml"
+            ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.Button_Click_1);
+            
+            #line default
+            #line hidden
+            return;
+            case 4:
+            
+            #line 24 "..\..\MainWindow.xaml"
+            ((System.Windows.Controls.Button)(target)).Click += new System.Windows.RoutedEventHandler(this.Button_Click_2);
+            
+            #line default
+            #line hidden
+            return;
             }
             this._contentLoaded = true;
         }

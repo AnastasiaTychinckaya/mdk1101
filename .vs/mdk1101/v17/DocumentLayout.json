@@ -3,40 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\roz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\roz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\desktop\\mdk1101\\mdk1101\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\window4.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\roz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\roz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\desktop\\mdk1101\\mdk1101\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\window2.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\desktop\\mdk1101\\mdk1101\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\window1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\desktop\\mdk1101\\mdk1101\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\window4.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\desktop\\mdk1101\\mdk1101\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\window1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\desktop\\mdk1101\\mdk1101\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\window2.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\prestupniki.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\prestupniki.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\prestupniki.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\prestupniki.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\desktop\\mdk1101\\mdk1101\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\menu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\desktop\\mdk1101\\mdk1101\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\menu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\prestupniki.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\prestupniki.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\prestupniki.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\prestupniki.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|c:\\users\\\u0430\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\desktop\\mdk1101\\mdk1101\\roz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\roz.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\roz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{6DF28F7E-FF9A-4E9E-A03C-24A0AA87FC6E}|mdk1101\\mdk1101.csproj|solutionrelative:mdk1101\\roz.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,43 +50,82 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Window1.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Window1.xaml.cs",
-              "RelativeDocumentMoniker": "mdk1101\\Window1.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Window1.xaml.cs",
-              "RelativeToolTip": "mdk1101\\Window1.xaml.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAA3wEEAAAAnAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Window4.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Window4.xaml.cs",
+              "RelativeDocumentMoniker": "mdk1101\\Window4.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Window4.xaml.cs",
+              "RelativeToolTip": "mdk1101\\Window4.xaml.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAIA4wEMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T06:45:03.818Z",
+              "WhenOpened": "2025-04-18T06:45:49.083Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Roz.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Roz.xaml",
-              "RelativeDocumentMoniker": "mdk1101\\Roz.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Roz.xaml",
-              "RelativeToolTip": "mdk1101\\Roz.xaml",
+              "DocumentIndex": 2,
+              "Title": "Window4.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Window4.xaml",
+              "RelativeDocumentMoniker": "mdk1101\\Window4.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Window4.xaml",
+              "RelativeToolTip": "mdk1101\\Window4.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-16T08:13:19.909Z",
+              "WhenOpened": "2025-04-18T06:44:38.772Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "menu.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\menu.xaml",
-              "RelativeDocumentMoniker": "mdk1101\\menu.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\menu.xaml",
-              "RelativeToolTip": "mdk1101\\menu.xaml",
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "mdk1101\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\MainWindow.xaml.cs",
+              "RelativeToolTip": "mdk1101\\MainWindow.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAtwDMAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:40:18.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Window2.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Window2.xaml.cs",
+              "RelativeDocumentMoniker": "mdk1101\\Window2.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Window2.xaml.cs",
+              "RelativeToolTip": "mdk1101\\Window2.xaml.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAewC8AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T06:06:18.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prestupniki.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Prestupniki.xaml.cs",
+              "RelativeDocumentMoniker": "mdk1101\\Prestupniki.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Prestupniki.xaml.cs",
+              "RelativeToolTip": "mdk1101\\Prestupniki.xaml.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAWwFMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T08:24:35.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Window2.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Window2.xaml",
+              "RelativeDocumentMoniker": "mdk1101\\Window2.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Window2.xaml",
+              "RelativeToolTip": "mdk1101\\Window2.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-17T04:36:41.136Z",
+              "WhenOpened": "2025-04-18T06:01:09.31Z",
               "EditorCaption": ""
             },
             {
@@ -99,44 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Prestupniki.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Prestupniki.xaml.cs",
-              "RelativeDocumentMoniker": "mdk1101\\Prestupniki.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Prestupniki.xaml.cs",
-              "RelativeToolTip": "mdk1101\\Prestupniki.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T08:24:35.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Window1.xaml",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Window1.xaml",
-              "RelativeDocumentMoniker": "mdk1101\\Window1.xaml",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Window1.xaml",
-              "RelativeToolTip": "mdk1101\\Window1.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-04-17T05:45:49.917Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Roz.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Roz.xaml.cs",
-              "RelativeDocumentMoniker": "mdk1101\\Roz.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Roz.xaml.cs",
-              "RelativeToolTip": "mdk1101\\Roz.xaml.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T08:14:55.744Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Prestupniki.xaml",
               "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Prestupniki.xaml",
               "RelativeDocumentMoniker": "mdk1101\\Prestupniki.xaml",
@@ -148,15 +154,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "menu.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\menu.xaml.cs",
-              "RelativeDocumentMoniker": "mdk1101\\menu.xaml.cs",
-              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\menu.xaml.cs",
-              "RelativeToolTip": "mdk1101\\menu.xaml.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAYwC8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Roz.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Roz.xaml.cs",
+              "RelativeDocumentMoniker": "mdk1101\\Roz.xaml.cs",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Roz.xaml.cs",
+              "RelativeToolTip": "mdk1101\\Roz.xaml.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAWwFsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-16T08:25:48.218Z"
+              "WhenOpened": "2025-04-16T08:14:55.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Roz.xaml",
+              "DocumentMoniker": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Roz.xaml",
+              "RelativeDocumentMoniker": "mdk1101\\Roz.xaml",
+              "ToolTip": "C:\\Users\\\u0410\u043D\u0430\u0441\u0442\u0430\u0441\u0438\u044F\\Desktop\\mdk1101\\mdk1101\\Roz.xaml",
+              "RelativeToolTip": "mdk1101\\Roz.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T08:13:19.909Z",
+              "EditorCaption": ""
             }
           ]
         }

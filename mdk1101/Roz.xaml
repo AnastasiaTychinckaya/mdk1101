@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Window1" Height="651" Width="995">
     <Grid Margin="-42,-228,42,166" RenderTransformOrigin="0.526,0.616">
-        <DataGrid x:Name ="rozisk" AutoGenerateColumns="False" Margin="109,274,251,214" SelectionChanged="rozisk_SelectionChanged">
+        <DataGrid x:Name ="rozisk" AutoGenerateColumns="False" Margin="109,274,251,214">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="ID" Binding="{Binding cartoteka_id}"></DataGridTextColumn>
 

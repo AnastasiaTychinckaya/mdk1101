@@ -83,3 +83,6 @@ C:\Users\Анастасия\Desktop\mdk1101\mdk1101\obj\Debug\mdk1101.csproj.Up2
 C:\Users\Анастасия\Desktop\mdk1101\mdk1101\obj\Debug\mdk1101.exe
 C:\Users\Анастасия\Desktop\mdk1101\mdk1101\obj\Debug\mdk1101.pdb
 C:\Users\Анастасия\Desktop\mdk1101\mdk1101\obj\Debug\Window1.g.cs
+C:\Users\Анастасия\Desktop\mdk1101\mdk1101\obj\Debug\Window2.g.cs
+C:\Users\Анастасия\Desktop\mdk1101\mdk1101\obj\Debug\Window1.baml
+C:\Users\Анастасия\Desktop\mdk1101\mdk1101\obj\Debug\Window2.baml

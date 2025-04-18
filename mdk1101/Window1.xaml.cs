@@ -44,7 +44,6 @@ namespace mdk1101
 
         private void Button_Click_2(object sender, RoutedEventArgs e)
         {
-      
             Roz window = new Roz();
             this.Close();
             window.ShowDialog();

@@ -7,17 +7,20 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <DataGrid x:Name ="cartoteka" AutoGenerateColumns="False">
+        <DataGrid x:Name ="cartoteka" AutoGenerateColumns="False" Margin="0,0,198,141">
             <DataGrid.Columns>
                 <DataGridTextColumn Header="ID" Binding="{Binding id}"></DataGridTextColumn>
-                
+
                 <DataGridTextColumn Header="Фамилия" Binding="{Binding lastname}"></DataGridTextColumn>
-                
+
                 <DataGridTextColumn Header="Имя" Binding="{Binding firstname}"></DataGridTextColumn>
-                
+
                 <DataGridTextColumn Header="Возраст" Binding="{Binding age}"></DataGridTextColumn>
-                
+
             </DataGrid.Columns>
         </DataGrid>
+        <Button Content="Добавить" HorizontalAlignment="Left" Height="32" Margin="53,298,0,0" VerticalAlignment="Top" Width="142" Click="Button_Click"/>
+        <Button Content="Удалить" HorizontalAlignment="Left" Height="32" Margin="200,298,0,0" VerticalAlignment="Top" Width="142" Click="Button_Click_1"/>
+        <Button Content="Редактировать" HorizontalAlignment="Left" Height="32" Margin="347,298,0,0" VerticalAlignment="Top" Width="142" Click="Button_Click_2"/>
     </Grid>
 </Window>
